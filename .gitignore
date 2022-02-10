@@ -1,0 +1,6 @@
+*/src
+*/bin
+*/.settings
+*.classpath
+*.project
+*scatterchart.css
